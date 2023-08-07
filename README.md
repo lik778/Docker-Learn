@@ -248,11 +248,11 @@ Docker 网络断开连接
   ### 如何编写 Dockerfile 配置文件
   **下面我举三个案例理解如何编写 Dockerfile 配置文件**
   #### 1、nginx 应用
-  [代码链接](./nginx/Dockerfile])
+  [代码链接](./nginx/Dockerfile)
   #### 2、node 应用
-  [代码链接](./node/Dockerfile])
+  [代码链接](./node/Dockerfile)
   ### 优化 Dockerfile 的书写
   #### 1、nginx 应用
-  [代码链接](./nginx/optimize.Dockerfile])
+  [代码链接](./nginx/optimize.Dockerfile)
   #### 2、node 应用
-  [代码链接](./node/optimize.Dockerfile])
+  [代码链接](./node/optimize.Dockerfile)
